@@ -13,6 +13,6 @@ First from `chapter-1` to `chapter-8` if you are learning basics.
 From `chapter-9` to `chapter-13` if you want to have a taste of Object Oriented Programming with Java.
 
 
-If you have any suggesstion, questions or feedback about solutions in book, fee free to reach me!
+If you have any suggesstion, questions or feedback about solutions in book, feel free to reach me!
 
 Thanks, Have Fun!
